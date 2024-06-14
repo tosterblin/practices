@@ -1,0 +1,1 @@
+files_dir = "C:\Users\Epix\PycharmProjects\pr\logs.txt"
